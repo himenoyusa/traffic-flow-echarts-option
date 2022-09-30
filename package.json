@@ -1,0 +1,16 @@
+{
+  "name": "traffic-flow-echarts-option",
+  "version": "1.0.0",
+  "homepage": "https://github.com/himenoyusa/traffic-flow-echarts-option",
+  "description": "基于Echarts的交通流量转向图option生成函数",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "trafficFlow",
+    "echartsOption"
+  ],
+  "author": "yusa_himeno",
+  "license": "MIT"
+}
